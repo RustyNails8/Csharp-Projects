@@ -1,2 +1,11 @@
 C:\Users\in10c2\source\repos\Csharp-Projects\C# Projects\01- Barcode\Barcode\obj\Debug\Barcode.Form1.resources
 C:\Users\in10c2\source\repos\Csharp-Projects\C# Projects\01- Barcode\Barcode\obj\Debug\Barcode.csproj.GenerateResource.cache
+C:\Users\in10c2\source\repos\Csharp-Projects\C# Projects\01- Barcode\Barcode\bin\Debug\Barcode.exe.config
+C:\Users\in10c2\source\repos\Csharp-Projects\C# Projects\01- Barcode\Barcode\bin\Debug\Barcode.exe
+C:\Users\in10c2\source\repos\Csharp-Projects\C# Projects\01- Barcode\Barcode\bin\Debug\Barcode.pdb
+C:\Users\in10c2\source\repos\Csharp-Projects\C# Projects\01- Barcode\Barcode\obj\Debug\Barcode.csprojAssemblyReference.cache
+C:\Users\in10c2\source\repos\Csharp-Projects\C# Projects\01- Barcode\Barcode\obj\Debug\Barcode.Properties.Resources.resources
+C:\Users\in10c2\source\repos\Csharp-Projects\C# Projects\01- Barcode\Barcode\obj\Debug\Barcode.csproj.CoreCompileInputs.cache
+C:\Users\in10c2\source\repos\Csharp-Projects\C# Projects\01- Barcode\Barcode\obj\Debug\Barcode.csproj.CopyComplete
+C:\Users\in10c2\source\repos\Csharp-Projects\C# Projects\01- Barcode\Barcode\obj\Debug\Barcode.exe
+C:\Users\in10c2\source\repos\Csharp-Projects\C# Projects\01- Barcode\Barcode\obj\Debug\Barcode.pdb
