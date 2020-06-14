@@ -9,3 +9,7 @@ C:\Users\in10c2\source\repos\Csharp-Projects\C# Projects\01- Barcode\Barcode\obj
 C:\Users\in10c2\source\repos\Csharp-Projects\C# Projects\01- Barcode\Barcode\obj\Debug\Barcode.csproj.CopyComplete
 C:\Users\in10c2\source\repos\Csharp-Projects\C# Projects\01- Barcode\Barcode\obj\Debug\Barcode.exe
 C:\Users\in10c2\source\repos\Csharp-Projects\C# Projects\01- Barcode\Barcode\obj\Debug\Barcode.pdb
+C:\Users\in10c2\source\repos\Csharp-Projects\C# Projects\01- Barcode\Barcode\bin\Debug\Barcode.exe.manifest
+C:\Users\in10c2\source\repos\Csharp-Projects\C# Projects\01- Barcode\Barcode\bin\Debug\Barcode.application
+C:\Users\in10c2\source\repos\Csharp-Projects\C# Projects\01- Barcode\Barcode\obj\Debug\Barcode.exe.manifest
+C:\Users\in10c2\source\repos\Csharp-Projects\C# Projects\01- Barcode\Barcode\obj\Debug\Barcode.application

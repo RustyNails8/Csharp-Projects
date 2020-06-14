@@ -2,8 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\C# Projects",
-    "\\C# Projects\\01- Barcode"
+    "\\C# Projects\\01- Barcode",
+    "\\C# Projects\\01- Barcode\\Barcode",
+    "\\C# Projects\\01- Barcode\\Barcode\\bin",
+    "\\C# Projects\\01- Barcode\\Barcode\\bin\\Debug",
+    "\\C# Projects\\01- Barcode\\Barcode\\obj",
+    "\\C# Projects\\01- Barcode\\Barcode\\obj\\Debug",
+    "\\C# Projects\\01- Barcode\\Barcode\\obj\\Release",
+    "\\C# Projects\\01- Barcode\\Barcode\\Properties"
   ],
-  "SelectedNode": "\\C# Projects\\01- Barcode\\Barcode.sln",
+  "SelectedNode": "\\C# Projects\\01- Barcode",
   "PreviewInSolutionExplorer": false
 }
