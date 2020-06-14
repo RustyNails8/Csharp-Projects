@@ -7,3 +7,13 @@ c:\users\runtime\documents\visual studio 2015\Projects\Digial Watch\Digial Watch
 c:\users\runtime\documents\visual studio 2015\Projects\Digial Watch\Digial Watch\obj\Debug\Digial Watch.csproj.GenerateResource.Cache
 c:\users\runtime\documents\visual studio 2015\Projects\Digial Watch\Digial Watch\obj\Debug\Digial Watch.exe
 c:\users\runtime\documents\visual studio 2015\Projects\Digial Watch\Digial Watch\obj\Debug\Digial Watch.pdb
+C:\Users\in10c2\source\repos\Csharp-Projects\C# Projects\02- Digital Watch\Digial Watch\bin\Debug\Digial Watch.exe.config
+C:\Users\in10c2\source\repos\Csharp-Projects\C# Projects\02- Digital Watch\Digial Watch\bin\Debug\Digial Watch.exe
+C:\Users\in10c2\source\repos\Csharp-Projects\C# Projects\02- Digital Watch\Digial Watch\bin\Debug\Digial Watch.pdb
+C:\Users\in10c2\source\repos\Csharp-Projects\C# Projects\02- Digital Watch\Digial Watch\obj\Debug\Digial Watch.csprojAssemblyReference.cache
+C:\Users\in10c2\source\repos\Csharp-Projects\C# Projects\02- Digital Watch\Digial Watch\obj\Debug\Digial_Watch.Form1.resources
+C:\Users\in10c2\source\repos\Csharp-Projects\C# Projects\02- Digital Watch\Digial Watch\obj\Debug\Digial_Watch.Properties.Resources.resources
+C:\Users\in10c2\source\repos\Csharp-Projects\C# Projects\02- Digital Watch\Digial Watch\obj\Debug\Digial Watch.csproj.GenerateResource.cache
+C:\Users\in10c2\source\repos\Csharp-Projects\C# Projects\02- Digital Watch\Digial Watch\obj\Debug\Digial Watch.csproj.CoreCompileInputs.cache
+C:\Users\in10c2\source\repos\Csharp-Projects\C# Projects\02- Digital Watch\Digial Watch\obj\Debug\Digial Watch.exe
+C:\Users\in10c2\source\repos\Csharp-Projects\C# Projects\02- Digital Watch\Digial Watch\obj\Debug\Digial Watch.pdb
